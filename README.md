@@ -7,6 +7,7 @@ some leetcode solutions solved
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/AyushkaSen/LC-Solutions/tree/master/0115-distinct-subsequences) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/AyushkaSen/LC-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -25,4 +26,8 @@ some leetcode solutions solved
 | [1683-invalid-tweets](https://github.com/AyushkaSen/LC-Solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/AyushkaSen/LC-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/AyushkaSen/LC-Solutions/tree/master/1978-employees-whose-manager-left-the-company) |
+## Array
+|  |
+| ------- |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/AyushkaSen/LC-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 <!---LeetCode Topics End-->
