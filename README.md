@@ -15,6 +15,7 @@ some leetcode solutions solved
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/AyushkaSen/LC-Solutions/tree/master/0197-rising-temperature) |
+| [0595-big-countries](https://github.com/AyushkaSen/LC-Solutions/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/AyushkaSen/LC-Solutions/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/AyushkaSen/LC-Solutions/tree/master/1148-article-views-i) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/AyushkaSen/LC-Solutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
