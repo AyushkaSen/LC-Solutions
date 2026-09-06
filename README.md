@@ -14,5 +14,6 @@ some leetcode solutions solved
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/AyushkaSen/LC-Solutions/tree/master/0197-rising-temperature) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/AyushkaSen/LC-Solutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 <!---LeetCode Topics End-->
