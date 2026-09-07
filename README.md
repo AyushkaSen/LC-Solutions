@@ -30,5 +30,10 @@ some leetcode solutions solved
 ## Array
 |  |
 | ------- |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/AyushkaSen/LC-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/AyushkaSen/LC-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+## Greedy
+|  |
+| ------- |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/AyushkaSen/LC-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 <!---LeetCode Topics End-->
