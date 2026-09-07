@@ -7,11 +7,13 @@ some leetcode solutions solved
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/AyushkaSen/LC-Solutions/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/AyushkaSen/LC-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/AyushkaSen/LC-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/AyushkaSen/LC-Solutions/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/AyushkaSen/LC-Solutions/tree/master/0940-distinct-subsequences-ii) |
 ## Database
 |  |
 | ------- |
