@@ -38,4 +38,8 @@ some leetcode solutions solved
 |  |
 | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AyushkaSen/LC-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+## Math
+|  |
+| ------- |
+| [3870-count-commas-in-range](https://github.com/AyushkaSen/LC-Solutions/tree/master/3870-count-commas-in-range) |
 <!---LeetCode Topics End-->
