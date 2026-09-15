@@ -37,6 +37,7 @@ some leetcode solutions solved
 | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AyushkaSen/LC-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/AyushkaSen/LC-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AyushkaSen/LC-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Greedy
 |  |
 | ------- |
@@ -46,4 +47,16 @@ some leetcode solutions solved
 | ------- |
 | [3870-count-commas-in-range](https://github.com/AyushkaSen/LC-Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/AyushkaSen/LC-Solutions/tree/master/3871-count-commas-in-range-ii) |
+## Hash Table
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/AyushkaSen/LC-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/AyushkaSen/LC-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/AyushkaSen/LC-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
