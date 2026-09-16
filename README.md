@@ -15,6 +15,7 @@ some leetcode solutions solved
 | ------- |
 | [0115-distinct-subsequences](https://github.com/AyushkaSen/LC-Solutions/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/AyushkaSen/LC-Solutions/tree/master/0940-distinct-subsequences-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AyushkaSen/LC-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Database
 |  |
 | ------- |
@@ -46,6 +47,7 @@ some leetcode solutions solved
 ## Math
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AyushkaSen/LC-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3870-count-commas-in-range](https://github.com/AyushkaSen/LC-Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/AyushkaSen/LC-Solutions/tree/master/3871-count-commas-in-range-ii) |
 ## Hash Table
@@ -64,4 +66,12 @@ some leetcode solutions solved
 |  |
 | ------- |
 | [2833-furthest-point-from-origin](https://github.com/AyushkaSen/LC-Solutions/tree/master/2833-furthest-point-from-origin) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AyushkaSen/LC-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Prefix Sum
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AyushkaSen/LC-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
