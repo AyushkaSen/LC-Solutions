@@ -52,6 +52,7 @@ some leetcode solutions solved
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AyushkaSen/LC-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3360-stone-removal-game](https://github.com/AyushkaSen/LC-Solutions/tree/master/3360-stone-removal-game) |
 | [3870-count-commas-in-range](https://github.com/AyushkaSen/LC-Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/AyushkaSen/LC-Solutions/tree/master/3871-count-commas-in-range-ii) |
 ## Hash Table
@@ -78,4 +79,8 @@ some leetcode solutions solved
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AyushkaSen/LC-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/AyushkaSen/LC-Solutions/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
