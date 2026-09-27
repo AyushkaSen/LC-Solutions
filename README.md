@@ -8,6 +8,7 @@ some leetcode solutions solved
 | ------- |
 | [0115-distinct-subsequences](https://github.com/AyushkaSen/LC-Solutions/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/AyushkaSen/LC-Solutions/tree/master/0940-distinct-subsequences-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AyushkaSen/LC-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/AyushkaSen/LC-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/AyushkaSen/LC-Solutions/tree/master/2833-furthest-point-from-origin) |
 ## Dynamic Programming
@@ -83,4 +84,12 @@ some leetcode solutions solved
 |  |
 | ------- |
 | [3360-stone-removal-game](https://github.com/AyushkaSen/LC-Solutions/tree/master/3360-stone-removal-game) |
+## Stack
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AyushkaSen/LC-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AyushkaSen/LC-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
