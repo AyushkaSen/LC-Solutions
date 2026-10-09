@@ -34,6 +34,7 @@ some leetcode solutions solved
 | [0620-not-boring-movies](https://github.com/AyushkaSen/LC-Solutions/tree/master/0620-not-boring-movies) |
 | [1045-customers-who-bought-all-products](https://github.com/AyushkaSen/LC-Solutions/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1068-product-sales-analysis-i](https://github.com/AyushkaSen/LC-Solutions/tree/master/1068-product-sales-analysis-i) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/AyushkaSen/LC-Solutions/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1148-article-views-i](https://github.com/AyushkaSen/LC-Solutions/tree/master/1148-article-views-i) |
 | [1193-monthly-transactions-i](https://github.com/AyushkaSen/LC-Solutions/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1211-queries-quality-and-percentage](https://github.com/AyushkaSen/LC-Solutions/tree/master/1211-queries-quality-and-percentage) |
