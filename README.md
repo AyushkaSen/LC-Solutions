@@ -35,6 +35,7 @@ some leetcode solutions solved
 | [1045-customers-who-bought-all-products](https://github.com/AyushkaSen/LC-Solutions/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1068-product-sales-analysis-i](https://github.com/AyushkaSen/LC-Solutions/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/AyushkaSen/LC-Solutions/tree/master/1148-article-views-i) |
+| [1193-monthly-transactions-i](https://github.com/AyushkaSen/LC-Solutions/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1211-queries-quality-and-percentage](https://github.com/AyushkaSen/LC-Solutions/tree/master/1211-queries-quality-and-percentage) |
 | [1280-students-and-examinations](https://github.com/AyushkaSen/LC-Solutions/tree/main/1280-students-and-examinations/) | Easy |
 | [1341-movie-rating](https://github.com/AyushkaSen/LC-Solutions/tree/main/1341-movie-rating/) | Medium |
