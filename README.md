@@ -19,6 +19,7 @@ some leetcode solutions solved
 | [0115-distinct-subsequences](https://github.com/AyushkaSen/LC-Solutions/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/AyushkaSen/LC-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AyushkaSen/LC-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AyushkaSen/LC-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,6 +56,7 @@ some leetcode solutions solved
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AyushkaSen/LC-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/AyushkaSen/LC-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AyushkaSen/LC-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AyushkaSen/LC-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/AyushkaSen/LC-Solutions/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -65,12 +67,14 @@ some leetcode solutions solved
 | ------- | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AyushkaSen/LC-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3360-stone-removal-game](https://github.com/AyushkaSen/LC-Solutions/tree/master/3360-stone-removal-game) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AyushkaSen/LC-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3870-count-commas-in-range](https://github.com/AyushkaSen/LC-Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/AyushkaSen/LC-Solutions/tree/master/3871-count-commas-in-range-ii) |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/AyushkaSen/LC-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AyushkaSen/LC-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -111,4 +115,12 @@ some leetcode solutions solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AyushkaSen/LC-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AyushkaSen/LC-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AyushkaSen/LC-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 <!---LeetCode Topics End-->
