@@ -54,6 +54,7 @@ some leetcode solutions solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AyushkaSen/LC-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1882-process-tasks-using-servers](https://github.com/AyushkaSen/LC-Solutions/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AyushkaSen/LC-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/AyushkaSen/LC-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AyushkaSen/LC-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -124,6 +125,7 @@ some leetcode solutions solved
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1882-process-tasks-using-servers](https://github.com/AyushkaSen/LC-Solutions/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AyushkaSen/LC-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
